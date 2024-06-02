@@ -22,3 +22,9 @@ Para clonar e executar este aplicativo, você precisará do [Git](https://git-sc
 ```bash
 # Clone este repositório
 $ git clone https://github.com/devraulbraga/telalogin
+
+# Acesse a pasta do projeto
+$ cd telalogin
+
+# Instale as dependências
+$ npm install
